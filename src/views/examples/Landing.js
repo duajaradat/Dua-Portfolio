@@ -19,9 +19,9 @@ import React from "react";
 // nodejs library that concatenates classes
 import classnames from "classnames";
 import promo1 from "assets/img/theme/promo-1.png";
-import project1 from 'assets/img/projects/cityexplorer.png';
-import project2 from 'assets/img/projects/bus-mall.png';
-import project3 from 'assets/img/projects/POLARIS.png';
+import project1 from '../../assets/img/theme/cityexplorer.png';
+import project2 from 'assets/img/theme/bus-mall.png';
+import project3 from 'assets/img/theme/POLARIS.png';
 // reactstrap components
 import {
   Badge,
